@@ -1,0 +1,15 @@
+.elementor-kit-1832{--e-global-color-primary:#69A49E;--e-global-color-secondary:#F49A6A;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-efea292:#DA0000;--e-global-color-dfbdbe2:#266FF2;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Montserrat";--e-global-typography-text-font-size:16px;--e-global-typography-text-font-weight:400;--e-global-typography-text-line-height:21px;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;--e-global-typography-49684f4-font-family:"Montserrat";--e-global-typography-49684f4-font-size:34px;--e-global-typography-49684f4-font-weight:800;--e-global-typography-8ad0a8c-font-family:"Montserrat";}.elementor-kit-1832 button,.elementor-kit-1832 input[type="button"],.elementor-kit-1832 input[type="submit"],.elementor-kit-1832 .elementor-button{font-family:"AmpleSoft Pro", Sans-serif;font-size:28px;font-weight:700;color:#FFFFFF;background-color:#F49A6A;border-radius:25px 30px 25px 30px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-1832 e-page-transition{background-color:#FFBC7D;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-kit-1832{--e-global-typography-8ad0a8c-font-size:20px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'AmpleSoft Pro';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../2021/08/Ample-Soft-Pro-Medium.woff') format('woff');
+}
+@font-face {
+	font-family: 'AmpleSoft Pro';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2021/08/Ample-Soft-Pro.woff') format('woff');
+}
+/* End Custom Fonts CSS */
